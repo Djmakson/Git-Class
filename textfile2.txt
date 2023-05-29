@@ -1,1 +1,3 @@
-I am enjoying this class. Trying to practice to get used to these commands
+I am enjoying this class. Trying to practice to get used to these commands.
+I finally realize how to edit files using the vim command. I found echo was not doing the job when I cat into the file.
+This whole concept is very interesting but it is pertinent to know the commands and understand what they are used for.
